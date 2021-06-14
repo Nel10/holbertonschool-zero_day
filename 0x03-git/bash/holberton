@@ -1,2 +1,6 @@
 #!/bin/ban
+<<<<<<< HEAD
 echo "Holberton School is so cool"
+=======
+echo "Holberton School"
+>>>>>>> update_script
